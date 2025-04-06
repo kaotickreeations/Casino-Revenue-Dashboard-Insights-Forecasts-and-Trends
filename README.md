@@ -10,8 +10,6 @@ Steady Growth: Predicted revenue shows a consistent upward trajectory, suggestin
 
 Revenue Stabilization: The dashboard forecasts stabilization at approximately $5M/month in later periods, indicating reliable revenue expectations.
 
-Trends Across Licensees: When filtered by licensee, the dashboard offers granular insights into individual contributors to revenue.
-
 Interactive Exploration: Filters for Month Ending, Fiscal Year, and Licensee enable dynamic analysis, helping users identify high-performance periods and outliers.
 
 Visual Clarity: The use of dual-axis line charts with bold colors ensures an intuitive understanding of actual vs forecasted data.
